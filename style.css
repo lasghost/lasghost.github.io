@@ -64,7 +64,8 @@ a {
 .about__title,
 .interests__title,
 .schedule__title,
-.news__title {
+.news__title,
+.languages__title {
     color: #7B9E00;
 }
 
@@ -72,7 +73,8 @@ a {
 .interests,
 .schedule,
 .news,
-.photo-album {
+.photo-album,
+.languages {
     padding: 10px;
 }
 
